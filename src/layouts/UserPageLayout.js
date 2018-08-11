@@ -6,7 +6,7 @@ class UserPageLayout extends React.Component{
     render(){
         return(
             <div>
-                <Route path="/users" component={UserProfilePage}/>
+                <Route path="/user" component={UserProfilePage}/>
             </div>
         );
     }

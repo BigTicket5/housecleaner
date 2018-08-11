@@ -1,10 +1,9 @@
 import React from 'react';
-
 class HomePage extends React.Component{
     render(){
         return(
             <div>
-                <h2>Hello here is HouseCleaner</h2>
+                <h5>Hello here is HouseCleaner</h5>
             </div>
         )
     }
